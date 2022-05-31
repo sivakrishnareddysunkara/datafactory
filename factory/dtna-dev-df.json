@@ -1,0 +1,9 @@
+{
+	"name": "dtna-dev-df",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0320eb60-7c55-412a-a953-67b02b7215ac",
+		"tenantId": "c5976b7f-e326-4d2b-9c44-183c29371942"
+	}
+}
