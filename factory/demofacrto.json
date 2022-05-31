@@ -1,0 +1,9 @@
+{
+	"name": "demofacrto",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ffb4de40-0599-4c5d-a212-d85aa4416c18",
+		"tenantId": "c5976b7f-e326-4d2b-9c44-183c29371942"
+	}
+}
